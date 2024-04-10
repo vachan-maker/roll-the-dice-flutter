@@ -1,4 +1,6 @@
 # roll_the_dice
+![image](https://github.com/vachan-maker/roll-the-dice-flutter/assets/65799568/eb9c8d33-32ee-40ad-bb26-101f20b280dd)
+
 
 A new Flutter project.
 
